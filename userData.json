@@ -1,0 +1,26 @@
+{
+    "users":[
+        {
+            "id": 223472488,
+            "first_name": "Garco",
+            "is_bot": false,
+            "username": "DGarciaCosio",
+            "language_code": "en"
+        },
+        {
+            "id": 13613357,
+            "first_name": "Pep",
+            "is_bot": false,
+            "username": "Peples",
+            "language_code": "es"
+        },
+        {
+            "id": 372206266,
+            "first_name": "Victor",
+            "is_bot": false,
+            "last_name": "Garcia",
+            "username": "victorr09",
+            "language_code": "es"
+        }    
+    ]
+}
